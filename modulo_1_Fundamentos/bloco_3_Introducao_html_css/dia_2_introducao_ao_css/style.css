@@ -1,0 +1,21 @@
+body{
+    font-size: 16px;
+}
+h1{
+    font-family: sans-serif;
+    font-size: 65px;
+    color: orange;
+}
+ul{
+    background-color: skyblue;
+}
+p{
+    font-weight: 600;
+    size: em;
+}
+li{
+    background-color: red;
+}
+.ul-p{
+    color: red;
+}
